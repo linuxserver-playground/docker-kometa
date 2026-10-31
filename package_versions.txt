@@ -82,7 +82,7 @@ jq                         1.8.2-r0          apk
 jsonschema                 4.26.0            python                           
 jsonschema-specifications  2025.9.1          python                           
 langcodes                  3.5.1             python                           
-letterboxdpy               6.6.1             python                           
+letterboxdpy               6.7.0             python                           
 libapk                     3.0.8-r0          apk                              
 libattr                    2.5.2-r2          apk                              
 libavif                    1.4.2             UnknownPackage                   
