@@ -171,7 +171,7 @@ schedule                   1.2.2             python
 serializd-py               0.1.4             python                           
 setuptools                 70.3.0            python                           
 setuptools                 84.2.1            python                           
-shadow                     4.18.0-r1         apk                              
+shadow                     4.20.4-r0         apk                              
 skalibs-libs               2.15.0.0-r0       apk                              
 smmap                      5.0.3             python                           
 soupsieve                  4.1               python                           
@@ -196,4 +196,4 @@ ytmusicapi                 1.12.3            python
 zipp                       3.23.0            python                           
 zlib                       1.4-r0            apk                              
 zlib                       2.3.3             UnknownPackage                   
-zstd-libs                  1.5.7-r2          apk                              
+zstd-libs                  1.6.0-r1          apk                              
