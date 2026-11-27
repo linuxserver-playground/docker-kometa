@@ -89,7 +89,7 @@ libbz2                     1.0.8-r6          apk
 libcrypto3                 3.5.9-r1          apk                              
 libcurl                    8.23.0-r0         apk                              
 libexpat                   2.11.0-r0         apk                              
-libffi                     3.8.1-r0          apk                              
+libffi                     3.8.2-r0          apk                              
 libgcc                     15.2.0-r5         apk                              
 libidn2                    2.3.8-r0          apk                              
 libimagequant              4.4.1             UnknownPackage                   
@@ -111,7 +111,7 @@ libwebp                    1.6.0             UnknownPackage
 libxau                     1.0.12-r0         apk                              
 libxcb                     1.17.0            UnknownPackage                   
 libxdmcp                   1.1.5-r1          apk                              
-libxml2                    2.13.9-r3         apk                              
+libxml2                    2.13.9-r5         apk                              
 libxslt                    1.1.43-r4         apk                              
 linux-pam                  1.7.1-r2          apk                              
 lxml                       6.1.3             python                           
